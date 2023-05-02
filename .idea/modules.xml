@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/2nd Year/2nd Year.iml" filepath="$PROJECT_DIR$/2nd Year/2nd Year.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CPU Scheduling/CPU Scheduling.iml" filepath="$PROJECT_DIR$/CPU Scheduling/CPU Scheduling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DATA STRUCTURES/DATA STRUCTURES.iml" filepath="$PROJECT_DIR$/DATA STRUCTURES/DATA STRUCTURES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GUI/GUI.iml" filepath="$PROJECT_DIR$/GUI/GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/INTPROG/INTPROG.iml" filepath="$PROJECT_DIR$/INTPROG/INTPROG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPROG/OOPROG.iml" filepath="$PROJECT_DIR$/OOPROG/OOPROG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PML3/PML3.iml" filepath="$PROJECT_DIR$/PML3/PML3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+    </modules>
+  </component>
+</project>
